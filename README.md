@@ -1,7 +1,7 @@
 # PHYS323 CW 01
 
 **Author(s):** 
-CHANGEME
+Quinn, Daniel
 
 ## Specification
 
@@ -30,4 +30,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Quinn Monahan
+Daniel Yaacov
