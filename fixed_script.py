@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-# You will change this line later
+# This is another conflicting message
 print("This script has typos. Please fix them.")
-# You will also change this line later
+# This is an unrelated comment
 
 print("Positive integers from 5 to 100:")
 for i in range(5,101):
